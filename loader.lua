@@ -8,4 +8,6 @@ elseif game.PlaceId == 9824221333 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/sskiding/linkvertise.lua/main/dhat.lua"))()
 elseif game.PlaceId == 9825515356 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/sskiding/linkvertise.lua/main/hc.lua"))()
+elseif game.PlaceId == 5872075530 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/linkvertise-lua/linkvertise/main/anarchy.lua"))()
 end
